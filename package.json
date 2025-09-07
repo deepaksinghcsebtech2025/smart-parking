@@ -1,0 +1,21 @@
+{
+  "name": "smart-parking",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^8.18.0",
+    "socket.io": "^4.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
