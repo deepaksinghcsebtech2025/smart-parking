@@ -98,7 +98,3 @@ curl -X POST http://localhost:4000/api/reservations \
 📜 License
 
 MIT License © 2025 Deepak Singh
-
----
-
-Would you like me to also generate a **short tagline (≤100 characters)** that you can paste under the repo name on GitHub (the small subtitle)?
